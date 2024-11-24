@@ -1,0 +1,7 @@
+pip install -r requirements.txt
+Flask==2.3.2
+
+
+For Caesar Cipher, you can use a simple number, like 3 for the key.
+For Vigenère Cipher, you can use a word like KEY for the key.
+For Affine Cipher, use 5 for a and 8 for b, as in the code.
